@@ -1,4 +1,4 @@
-public class MainCreated {
+public class Tema1 {
     String miNombre="Godofreda"; //variable global a la que vamos a llamar con this.
 
     public static void main(String[] args){

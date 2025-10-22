@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Operadores {
+public class OperadoresTema1 {
     int op1=0;
     public void operadoresAritmeticos () {
         //OPERADORES ARITMETICOS

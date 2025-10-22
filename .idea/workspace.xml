@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9553bbd-7f00-4ccf-b45c-674ac6175b3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/proyectoinicial/src/EntradaTema2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CLASEPRO_PW.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INICIAL/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INICIAL/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INICIAL/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INICIAL/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INICIAL/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INICIAL/INICIAL.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INICIAL/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INICIAL/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INICIAL/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INICIAL/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INICIAL/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operaciones/src/Entrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/operaciones/src/Entrada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operaciones/src/Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/operaciones/src/OperadoresTema1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoinicial/src/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoinicial/src/EjerciciosTema2.java" beforeDir="false" afterPath="$PROJECT_DIR$/proyectoinicial/src/EjerciciosTema2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoinicial/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoinicial/src/MainCreated.java" beforeDir="false" afterPath="$PROJECT_DIR$/proyectoinicial/src/Tema1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoinicial/src/operaciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoinicial/src/proyectoinicial.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "adriaguadog"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/adriaguadog/CLASEPRO_W",
+    "accountId": "a88c1b5f-014c-4546-b271-ec4bc1d72e6f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="34KR2c5AAWMHoFIXIwI470dur0T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EjerciciosTema2.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/33651/OneDrive/INFORMATICA/PROGRAMACION/CLASEPRO_PW"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9553bbd-7f00-4ccf-b45c-674ac6175b3b" name="Changes" comment="" />
+      <created>1760960070638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760960070638</updated>
+    </task>
+    <servers />
+  </component>
+</project>
